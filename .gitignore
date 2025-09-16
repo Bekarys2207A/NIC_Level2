@@ -10,3 +10,4 @@ env/
 /media/
 .DS_Store
 .idea/
+.env
